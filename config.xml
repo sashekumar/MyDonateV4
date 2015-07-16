@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="io.cordova.mydonatev3" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>MyDonate</name>
+    <name>MyDonateV3</name>
     <description>
         MyDonate Mobile Client.
     </description>
     <author email="sashekumar@gmail.com" href="http://mydonate.com.my">
-        MyDonate
+        MyDonateV3
     </author>
     <content src="index.html" />
     <access origin="*" />
